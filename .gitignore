@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Временные шрифты (скачиваются автоматически)
+/tmp/fonts_mv/
+
+# Превью-скриншоты (рабочие файлы)
+*_check_p*.png
+preview_page_*.png
+preview_mv_p*.png
+plato_check_*.png
+v2_check_*.png
+yama_check_*.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Архивы (слишком большие для git)
+*.zip
